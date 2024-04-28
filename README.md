@@ -13,5 +13,10 @@ Dependencies:
 - Python installed<br>
 - Discord, Requests, and base64 libraries installed<br>
 **DOWNLOAD THE CHAT USING DISCORD BACKEND AS A ZIP FROM RELEASES**<br>
+**CREATE A DISCORD BOT WITH ALL INTENTS**<br>
+**ADD THE TOKEN TO THE RECIEVE CODE**<br>
+**CREATE A DISCORD SERVER AND A WEBHOOK FOR IT**<br>
+**ADD THE WEBHOOK URL TO THE SEND CODE**<br>
+**ENTER YOUR USERNAME INTO THE SEND CODE**<br>
 Usually open recieve.py with the command prompt<br>
 Position the windows so that they look like the screenshot<br>
