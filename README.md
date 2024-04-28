@@ -12,5 +12,6 @@ This hidden chat will let you send and recieve messages without having to warry 
 Dependencies:
 - Python installed<br>
 - Discord, Requests, and base64 libraries installed<br>
+**DOWNLOAD THE CHAT USING DISCORD BACKEND AS A ZIP FROM RELEASES**<br>
 Usually open recieve.py with the command prompt<br>
 Position the windows so that they look like the screenshot<br>
